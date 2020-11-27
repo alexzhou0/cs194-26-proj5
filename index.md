@@ -104,12 +104,12 @@ To get rid of the false-positives from matching feature descriptors, we run RANS
 
 ### Part B5: Autostitching Mosaics
 
-Now that we can automatically extract features, match features, and prune false-positives, we can do automatic stitching. Here is the final result, which can be compared with the results from manual point-corrrespondences.
+Now that we can automatically extract features, match features, and prune false-positives, we can do automatic stitching. Here is the final result, which can be compared with the results below it from manual point-corrrespondences.
 
 <img src="p2_website_imgs/auto_mosaic.png" alt="Auto mosaic" width="1000"/>
 <img src="p1_website_imgs/mosaic.png" alt="Manual mosaic" width="1000"/>
 
-Although auto-stitching did not get rid of the lighting discrepaancies, as that was a problem with my blending method, the blurriness from bad point-correspondences is gone! This is most obvious in the center of the image.
+Although auto-stitching did not get rid of the lighting discrepancies, as that was a problem with my blending method, the blurriness from bad point-correspondences is gone! This is most obvious in the center of the image.
 
 Some more auto-stitches I made can be seen below.
 
